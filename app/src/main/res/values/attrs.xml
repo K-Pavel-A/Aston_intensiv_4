@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ClockView">
+        <attr name="secondHandColor" format="color"/>
+        <attr name="minuteHandColor" format="color"/>
+        <attr name="hourHandColor" format="color"/>
+        <attr name="clockFaceColor" format="color"/>
+    </declare-styleable>
+    
+    <attr name="ClockViewStyle" format="reference"/>
+
+</resources>
